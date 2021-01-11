@@ -1,4 +1,4 @@
-import discord, json, asyncio
+import discord, json, asyncio, os
 from discord.ext import commands
 from trusted_users import get_trusted_users as trusted_users
 
