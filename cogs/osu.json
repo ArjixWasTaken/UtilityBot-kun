@@ -1,0 +1,10 @@
+{
+    "info":{
+        "author": "ArjixGamer",
+        "email": ""
+    },
+    "help":{
+        "osu": "Retrieves information from the osu website about the specified user."
+    }
+
+}

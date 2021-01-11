@@ -1,0 +1,10 @@
+{
+    "info":{
+        "author": "ArjixGamer",
+        "email": ""
+    },
+    "help":{
+        "banword": "Bans provided word."
+    }
+
+}

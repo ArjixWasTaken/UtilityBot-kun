@@ -1,0 +1,11 @@
+{
+    "info":{
+        "author": "ArjixGamer",
+        "email": ""
+    },
+    "help":{
+    	"roast": "Roast a person.",
+	"roast-add": "Add a roast to the roasts list."
+    }
+
+}
