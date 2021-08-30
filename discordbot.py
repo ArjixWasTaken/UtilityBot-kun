@@ -97,12 +97,9 @@ async def on_member_join(member):
     if member.guild == guild:
         embed = discord.Embed(color=0x00ff00)
         emoji = client.get_emoji(741774114754396311)
-        embed.title = 'Welcome to FastAni!'
-        message_part1 = 'Welcome to the FastAni community discord server!'
-        message_part2 = '\nTo get started first read the [rules]({}) and then react {} to the verification message'.format(
-            'https://discord.com/channels/737374502689964172/737374502689964176', emoji)
-        message_part3 = '\nto get verified and get access to all channels, once again Welcome to our server!\nHave fun.'
-        embed.description = message_part1 + message_part2 + message_part3
+        embed.title = 'Welcome to x!'
+        message = "Welcome to my server!"
+        embed.description = message
         await member.send(embed=embed)
 """
 # commands
